@@ -1,19 +1,24 @@
-# Selamat Datang
-
+# Beranda
+## Selamat Datang
 Petunjuk Penggunaan Absen Oline Pasaman Barat
 
-....
+Jika belum menginstall *Absen Online* silahkan download terlebih dahulu
+[Download Absensi Online (Android)](#){ .md-button }
 
-## Commands
+## Pendahuluan
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Tujuan Pembuatan Dokumen
+Dokumen user manual Aplikasi Absesnsi Online ini dibuat untuk tujuan sebagai berikut:
 
-## Project layout
+ 1. Menggambarkan dan menjelaskan penggunaan aplikasi Absensi Online untuk Admin, User Pimpinan dan User Staff
+ 2. Sebagai panduan instalasi, konfigurasi dan penggunaan Aplikasi Absensi Online.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Tingkatan Pengguna
+Pihak-pihak yang berkepentingan dan berhak menggunakan dokumen ini yaitu :
+
+1. **Administrator Absensi Online**
+Administrator Absensi Online menggunakan dokumen ini sebagai panduan untuk mereka bagaimana cara mengguakan dan melakukan konfigurasi wifi yang akan digunakan oleh user pimpinan dan user staff.
+2. **User Pimpinan**
+User Pimpinan menggunakan dokumen ini sebagai panduan pengguanaan aplikasi ini sebagaimana hak akses yang diberikan kepada user pimpinan.
+3. **User Staff**
+User staff menggunakan dokumen ini sebagai panduaan peeggunaan aplikasi ini sebagaimana hak akses yang diberikan kepada user staff.

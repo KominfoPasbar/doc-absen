@@ -1,1 +1,51 @@
-site_name: Manual Apsen Online
+site_name: Manual Absensi Online 
+site_description: Petunjuk Penggunaan Absensi Online Pasamana Barat
+site_author: refyandra
+copyright: Diskominfo Pasaman Barat
+markdown_extensions:
+  - meta
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - footnotes
+docs:
+    /assets
+theme:
+    name: material
+    language: id
+    features:
+      - navigation.tabs
+      - navigation.indexes
+#      - header.autohide
+    icon:
+    repo: fontawesome/brands/git-alt  
+extra:
+  version:
+    provider: pasbar
+  social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:diskominfo.pasbar12@gmail.com
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/diskominfopasbar 
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/diskominfopasamanbarat   
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UC-0zm_xbJQjK6bQ2g0P7pVg
+
+#plugins:
+plugins:
+  - git-revision-date
+  - git-revision-date-localized:
+      type: datetime
+      enable_creation_date: true
+      fallback_to_build_date: true
+  - search:
+      prebuild_index: true
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+
+# REPO
+repo_url: https://github.com/KominfoPasbar/doc-absen
+repo_name: KominfoPasbar/doc-absen
+edit_uri: edit/master/docs/
