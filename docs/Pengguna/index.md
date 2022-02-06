@@ -40,12 +40,9 @@
 ![absensi](../assets/images/apk-btn-sakit-form.png)
 
 #### Laporan
+Laporan harian
 
+Pada fitur ini Pegawai dapat membuat laporan harian pada halaman ini.
+Untuk panduan lebih lanjut silahkan pelajari [Petujnujuk Mengisi Laporan Harian](/Pengguna/laporan-harian)
 ### Logout
 Mengakhiri sesi Anda pada Absensi Online, terletak pada pojok kanan atas aplikasi. 
-
-## Menu
-
-- [Absensi](../Pengguna/absensi)
-    - jjj
-- [login](../Pengguna/login)

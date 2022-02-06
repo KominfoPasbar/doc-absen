@@ -1,4 +1,4 @@
-# Riwayat
+# 2.Riwayat
 
 ## Riwayat Absen
 Menampilkan riwayat absen pegawai, Kehadiran pegawai akan langsung ditampilkan dihalaman ini. Sedangkan untuk staus **Izin**, **Dinas Luar** dan **Sakit** harus melewati persetujuan **Atasan**, maka riwayat absen akan diteruskan pada bilah [status](/Pengguna/status).  
