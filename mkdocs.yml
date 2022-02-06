@@ -1,4 +1,4 @@
-site_name: Manual Absensi Online 
+site_name: Manual Absensi Online Kab. Pasaman Barat
 site_description: Petunjuk Penggunaan Absensi Online Pasamana Barat
 site_author: refyandra
 copyright: Diskominfo Pasaman Barat
@@ -37,8 +37,9 @@ theme:
 
 
 extra:
+  homepage: https://mobileabsensi.pasamanbaratkab.go.id/
   version:
-    provider: pasbar
+    provider: mike
   social:
     - icon: fontawesome/solid/paper-plane
       link: mailto:diskominfo.pasbar12@gmail.com

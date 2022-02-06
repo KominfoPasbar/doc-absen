@@ -1,9 +1,12 @@
 # Pendahuluan
 ## Selamat Datang
+
 Petunjuk Penggunaan Absen Oline Pasaman Barat
 
-Jika belum meng-install *Absen Online* silahkan download terlebih dahulu
-[Download Absensi Online (Android)](https://mobileabsensi.pasamanbaratkab.go.id/apk){ .md-button }
+!!! info
+    Jika belum meng-install *Absen Online* silahkan download terlebih dahulu
+    <a href="https://mobileabsensi.pasamanbaratkab.go.id/apk" target="_blank" class="md-button">Download Absensi Online (Android)</a>
+    
 
 ## Pendahuluan
 
@@ -16,9 +19,6 @@ Dokumen user manual Aplikasi Absesnsi Online ini dibuat untuk tujuan sebagai ber
 ## Tingkatan Pengguna
 Pihak-pihak yang berkepentingan dan berhak menggunakan dokumen ini yaitu :
 
-1. **Administrator Absensi Online**
-Administrator Absensi Online menggunakan dokumen ini sebagai panduan untuk mereka bagaimana cara mengguakan dan melakukan konfigurasi wifi yang akan digunakan oleh user pimpinan dan user staff.
-2. **User Pimpinan**
-User Pimpinan menggunakan dokumen ini sebagai panduan pengguanaan aplikasi ini sebagaimana hak akses yang diberikan kepada user pimpinan.
-3. **User Staff**
-User staff menggunakan dokumen ini sebagai panduaan peeggunaan aplikasi ini sebagaimana hak akses yang diberikan kepada user staff.
+1. [Administrator Absensi Online](/Administrator) menggunakan dokumen ini sebagai panduan untuk mereka bagaimana cara mengguakan dan melakukan konfigurasi wifi yang akan digunakan oleh user pimpinan dan user staff.
+2. [User Pimpinan](/Pengguna) menggunakan dokumen ini sebagai panduan pengguanaan aplikasi ini sebagaimana hak akses yang diberikan kepada user pimpinan.
+3. [User Staff](/Pengguna) menggunakan dokumen ini sebagai panduaan peeggunaan aplikasi ini sebagaimana hak akses yang diberikan kepada user staff.

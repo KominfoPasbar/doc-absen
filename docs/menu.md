@@ -22,7 +22,7 @@ Adapun Struktur menu pada aplikasi Absensi Online sebagai berikut:
 Semua pegawai yang telah terdaftar/didaftarkan oleh admin instasi pada aplikasi [simpel.pasamanbaratkab.gi.id](https://Simpel.pasamanbaratkab.gi.id)
 
 ### Cara Pengguna aplikasi
-Untuk menggukan aplikasi, terlebih dahulu [unduh](#) dan instal aplikasinya. Setelah aplikasi diinstal, silahkan dijalankan dan akan muncul halaman [login](/Pengguna/login) :
+Untuk menggukan aplikasi, terlebih dahulu <a href="https://mobileabsensi.pasamanbaratkab.go.id/apk" target="_blank">Unduh</a> dan instal aplikasinya. Setelah aplikasi diinstal, silahkan dijalankan dan akan muncul halaman [login](/Pengguna/login) :
 <center>
 
 ![Login](../assets/images/img-login.png){loading=lazy width=40%;}
