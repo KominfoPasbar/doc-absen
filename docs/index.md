@@ -3,11 +3,6 @@
 
 Petunjuk Penggunaan Absen Oline Pasaman Barat
 
-!!! info
-    Jika belum meng-install *Absen Online* silahkan download terlebih dahulu
-    <a href="https://mobileabsensi.pasamanbaratkab.go.id/apk" target="_blank" class="md-button">Download Absensi Online (Android)</a>
-    
-
 ## Pendahuluan
 
 Tujuan Pembuatan Dokumen
