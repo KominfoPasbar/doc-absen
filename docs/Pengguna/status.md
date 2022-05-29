@@ -1,4 +1,4 @@
-# 3.Status
+# Status
 
 ## Status Absen
 !!! info

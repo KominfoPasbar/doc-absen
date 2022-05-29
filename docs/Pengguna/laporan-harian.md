@@ -1,3 +1,3 @@
-# 4.Laporan Harian
+# Laporan Harian
 
 ## Petujnujuk Mengisi Laporan Harian

@@ -30,6 +30,16 @@ Dasboard Administator akan menampilkan informasi sebagai berikut :
 
    ![Login](../assets/images/admin-android.png){loading=lazy width=40%;}
 
+   ![Login](../assets/images/menu-admin-wifi.png){loading=lazy width=40%;}
+
+Menu Admin
+
+1. Menampilkan GPS (pengembangan)
+2. Menampilkan Daftar Wifi
+3. Menuju Halaman Simpel
+4. Menuju Halaman Mobile Absensi
+5. Menuju Halaman Petunjuk Pemakaian (halaman ini)
+
 Gambar diatas adalah contoh dari tampilan admin pada perangkat android.
 #### Pengaturan Wifi Absensi
 

@@ -18,10 +18,10 @@
 
 ### Tombol
 #### Absen Masuk dan Pulang
-!!! Warning "Tombol Absen Masuk"
-    Pastikan fitur **WIFI** dan **GPS** pada perangkat Anda dalam keadaan **Aktif** sebelum menekan tombol absen.
+!!! Warning "Tombol Absen Masuk dan Absen Pulang"
+    Pastikan fitur **WIFI** dan **GPS** pada perangkat Anda dalam keadaan **Aktif** sebelum menekan tombol absen. Wifi yang sedang terkoneksi adalah wifi yang telah ditentukan oleh masing-masing admin OPD/Instansi.
 
-  - WIFI <code>Wajib Aktif</code> (Sesuai pengaturan Administrator Instasi)
+  - WIFI <code>Wajib Aktif</code> (Sesuai pengaturan Administrator OPD/Instasi)
   - GPS <code>Wajib Aktif</code>
 
 !!! tip "Jika Wifi belum tampil pada aplikasi"
