@@ -54,9 +54,6 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode   
 
-
-
-
 extra:
   homepage: https://mobileabsensi.pasamanbaratkab.go.id/
   version:
@@ -80,6 +77,9 @@ plugins:
   - search:
       prebuild_index: true
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+  #- offline:
+  #    enabled: !ENV [OFFLINE, false]
+
 
 # REPO
 repo_url: https://github.com/KominfoPasbar/doc-absen
